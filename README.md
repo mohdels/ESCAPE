@@ -1,7 +1,9 @@
 # ESCAPE
 An interactive website for the Engineering Socials Committee in the Faculty of Engineering at McGill University.
 The website allows the committee to upload event tickets for sale, upload photo galleries of their events for people to view after events as well as allow users to create accounts, purchase event tickets, post updates to the website, and interact with other users through trading event tickets, making it a ‘social’ cyber-space.
-Note: A domain for the website hasn't been bought yet. Until then, to view the frontend do the following instructions:
+
+- Note: This project was implemented in collaboration with: Roxanne Archambault, Murad Gohar, Pinak Ghosh, Alex Cattani, Ibrahim Taseer, Jeanine Looman, Nima Hemati, and Emile Riberdy
+- Note: A domain for the website hasn't been bought yet. Until then, to view the frontend do the following instructions:
 
 1. Download the code from github.
 2. Open command prompt/terminal
